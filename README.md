@@ -1,7 +1,7 @@
 # PronunDict
 a pronunciation dictionary of American English
 
-![Wildcard search by spelling](https://c.fsdn.com/con/app/proj/pronundict/screenshots/image10.png/1)
+![Wildcard search by pronunciation](https://c.fsdn.com/con/app/proj/pronundict/screenshots/image11.png/1)
 
 
 This dictionary can search reversely by pronunciation or normally by spelling. It uses [CMUdict](http://www.speech.cs.cmu.edu/cgi-bin/cmudict) as its data source. Pronunciation is transcribed in [IPA](http://en.wikipedia.org/wiki/International_Phonetic_Alphabet) symbols. The program runs only on Windows.
