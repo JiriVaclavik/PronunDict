@@ -3,6 +3,8 @@ a pronunciation dictionary of American English
 
 ![Wildcard search by pronunciation](https://c.fsdn.com/con/app/proj/pronundict/screenshots/image11.png/1)
 
+Image: Wildcard search by pronunciation
+
 
 This dictionary can search reversely by pronunciation or normally by spelling. It uses [CMUdict](http://www.speech.cs.cmu.edu/cgi-bin/cmudict) as its data source. Pronunciation is transcribed in [IPA](http://en.wikipedia.org/wiki/International_Phonetic_Alphabet) symbols. The program runs only on Windows.
 
