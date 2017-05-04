@@ -27,3 +27,6 @@ perfectly, but it is improved in this version (based on a set of possible syllab
 ## License
 This program is freeware. It can be used freely. Redistribution is permitted provided
 that it is free of charge.
+
+## Note
+Currently, the source code is not publicly available, but you can download the binaries (see the releases).
