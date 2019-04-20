@@ -1,6 +1,6 @@
 NEWS: you can follow [PronunDict on Twitter](https://twitter.com/PronunDict)!
 
-![PronunDict](https://c.fsdn.com/con/app/proj/pronundict/screenshots/image11.png/1)
+![PronunDict](https://a.fsdn.com/con/app/proj/pronundict/screenshots/pronundict-1.png/max/max/1)
 
 (wildcard search by pronunciation)
 
